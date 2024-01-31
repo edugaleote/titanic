@@ -8,7 +8,7 @@ Test Accuracy: 91%<br>
 Test Precission: 87% <br>
 Classification Matrix:
 
-![Classification Matrix](Figure_1.png)
+![Classification Matrix](logistic_regression_cm.png)
 
 
 
